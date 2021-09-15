@@ -1,0 +1,29 @@
+repertoires créés
+
+mkdir real fictionnal inhabited
+cd real 
+mkdir terrestrial gas-giants dwarf-planets
+
+mv 
+
+mv ~/planets/jupiter.jpeg ~/planets/real/gas-giants
+mv ~/planets/neptune.jpeg ~/planets/real/gas-giants
+mv ~/planets/uranus.jpeg ~/planets/real/gas-giants 
+mv ~/planets/saturn.jpeg ~/planets/real/gas-giants
+mv ~/planets/earth.jpeg ~/planets/real/terrestrial
+mv ~/planets/venus.jpeg ~/planets/real/terrestrial
+mv ~/planets/mars.jpeg ~/planets/real/terrestrial 
+mv ~/planets/mercury.jpeg ~/planets/real/terrestrial
+cd planets 
+rm -R pluto.jpeg
+
+copie planets 
+
+cd planets
+cp arrankis.jpeg
+cp arrankis.jpeg inhabited
+cp arrankis.jpeg fictional
+cp cybertron.jpeg fictional 
+cp cybertron.jpeg inhabited
+cp corustant.jpeg inhabited
+cp corustant.jpeg fictional
